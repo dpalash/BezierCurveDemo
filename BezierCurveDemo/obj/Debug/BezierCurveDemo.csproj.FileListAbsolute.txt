@@ -1,0 +1,9 @@
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\obj\Debug\BezierCurveDemo.csprojResolveAssemblyReference.cache
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\obj\Debug\BezierCurveDemo.Form1.resources
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\obj\Debug\BezierCurveDemo.Properties.Resources.resources
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\obj\Debug\BezierCurveDemo.csproj.GenerateResource.Cache
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\bin\Debug\BezierCurveDemo.exe.config
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\bin\Debug\BezierCurveDemo.exe
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\bin\Debug\BezierCurveDemo.pdb
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\obj\Debug\BezierCurveDemo.exe
+c:\users\cefalo\documents\visual studio 2017\Projects\BezierCurveDemo\BezierCurveDemo\obj\Debug\BezierCurveDemo.pdb
